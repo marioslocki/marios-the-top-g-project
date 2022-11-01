@@ -1,0 +1,8 @@
+#include <stdio.h>
+
+int main() 
+{  printf("marios the top g\n");
+
+printf("what colour is your buggati");
+return 0;
+}
