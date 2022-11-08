@@ -1,0 +1,31 @@
+#include <stdio.h>
+
+void logo()
+  printf(*=============================================*\n)  
+  printf(*           top g calculator        *\n)
+  printf(*     created by the top g *\n)
+  printf(*=============================================*\n)
+  
+  
+  
+int main()
+  {    
+   logo()
+   float valueOne ,vauleTwo ;
+   char operator;//- , + , s , / 
+   /*            
+   enter three numbers 2+3
+   /*
+   float answer;
+   printf(*Enter three numbers*\n)
+   scanf(*%f%c%f* ,&valueOne,&op,&valueTwo*);
+   print(*%f%c%f* ,valueOne,op,valueTwo*);
+   if(op == '+')
+   return 0;
+  {
+        answer = valueOne + valueTwo;
+        printf(%f%c%f ,ValueOne,op,ValueTwo,answer);
+        
+    }
+	 return 0;
+}
